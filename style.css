@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: 'Lato', 'Noto Sans JP', 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+}
+
+header img {
+    height: 80px;
+}
+
+main {
+    height: 1000px; 
+    background-image: url(./images/meg2.png);
+    background-size: cover;
+}
+
+.face {
+    height: 80%;
+}
+
+footer {
+    background-color: grey;
+}
+
+ul {
+    list-style: none;
+    font-size: 20px;
+    
+  }
